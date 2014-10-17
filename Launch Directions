@@ -1,0 +1,15 @@
+The application requires the http-auth node module install;
+
+npm install http-auth
+
+
+
+credentials for the application:
+
+username: tenable
+password: password
+
+
+To launch the application, open a console window and browse out to the install directory. 
+Run       node  index.js 
+Then open your browser and browse out to http://localhost:8888
