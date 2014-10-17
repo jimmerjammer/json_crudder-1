@@ -1,0 +1,18 @@
+﻿{
+  "name": "TCA-node",
+  "description": "Code Assesment",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Jim Frain",
+  "main": "./server.js",
+  "maintainers": [
+    {
+      "name": "Jim Frain",
+      "email": "jim_frain@hotmail.com"
+    }
+  ],
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}

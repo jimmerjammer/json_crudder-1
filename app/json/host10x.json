@@ -1,0 +1,395 @@
+{
+"configurations" : [
+     {
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+     {
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Garrett Winters"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Ashton Cox"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Airi Satou"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Tiger Nixon"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Brielle Williamson"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Herrod Chandler"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Rhona Davidson"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Colleen Hurst"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Jena Gaines"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Quinn Flynn"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "Charde Marshall"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     },
+     {
+        "name" : "host2",
+        "hostname" : "nessus-xml.lab.com",
+        "port" : 3384,
+        "username" : "admin"
+     },
+{
+        "name" : "host1",
+        "hostname" : "nessus-ntp.lab.com",
+        "port" : 1241,
+        "username" : "toto"
+     }
+
+ ]
+}
